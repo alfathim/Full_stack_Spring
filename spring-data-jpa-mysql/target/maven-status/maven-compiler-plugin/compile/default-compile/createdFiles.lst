@@ -1,0 +1,6 @@
+cog\fsd\java\assgn2\dto\Subject.class
+cog\fsd\java\assgn2\main\BookMainApplication.class
+cog\fsd\java\assgn2\dto\Book.class
+cog\fsd\java\assgn2\repository\BookRepository.class
+cog\fsd\java\assgn2\service\BookService.class
+cog\fsd\java\assgn2\controller\BookController.class
